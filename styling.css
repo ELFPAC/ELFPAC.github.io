@@ -36,5 +36,8 @@ h2 {
 }
 
 p {
-
+  width: 50%;
+  position: relative;
+  font-size: 16pt;
+  left: 25%
 }
