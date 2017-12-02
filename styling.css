@@ -1,0 +1,40 @@
+/*The stylesheet for index.html*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fcefef;
+  text
+}
+
+li {
+  float: left;
+  background-color: #fcefef;
+}
+
+li a {
+  display: block;
+  text-align:center;
+  padding: 12px 20px;
+  text-decoration: none;
+  color: #ed1c1c;
+}
+
+li a:hover {
+  background-color: #ff7777;
+}
+
+.menu{display:table;
+margin: 0 auto;
+align-self:center;
+}
+.post{background-color: #Eff5ff}
+
+h2 {
+  text-align: center;
+}
+
+p {
+
+}
