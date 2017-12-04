@@ -41,3 +41,9 @@ p {
   font-size: 16pt;
   left: 25%
 }
+
+#foot {
+  font-size: 9pt;
+  position: relative;
+  left: 25%;
+}
