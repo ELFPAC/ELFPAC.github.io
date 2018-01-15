@@ -1,12 +1,35 @@
 /*The stylesheet for index.html*/
+image {
+  padding: 0px;
+}
+
 #menu{
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #fcefef;
-  text
-  float: left;
+  position: relative;
+  right: 0%;
+}
+
+.hiddenlink{
+  text-decoration: none;
+  color: black;
+}
+
+.bigimage{
+  position:absolute;
+  clip: rect(75px, 100vw, 500px, 0vw);
+}
+
+#headerbar{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  background-color:#ffeded;
+  padding: 0px;
+  position:relative;
+  top:0px;
+  border:0px;
 }
 
 .menuitem {
@@ -14,9 +37,9 @@
   float: left;
   display: block;
   text-align:center;
-  padding: 6px 15px;
+  padding: 0px 15px;
   text-decoration: none;
-  color: #ed1c1c;
+  color: black;
   font-size: 16pt;
 }
 
@@ -70,4 +93,15 @@ p {
 
 #content{
   background-color: #Eff5ff
+}
+
+h1 {
+  padding: 0px;
+  margin:0px;
+}
+
+body {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
 }
