@@ -11,14 +11,20 @@ image {
   right: 0%;
 }
 
+#imagetext{
+  position: relative;
+  top:50px;
+  z-index:2;
+}
+
 .hiddenlink{
   text-decoration: none;
   color: black;
 }
 
 .bigimage{
-  position:absolute;
-  clip: rect(75px, 100vw, 500px, 0vw);
+  padding-top: 30px;
+  z-index:1;
 }
 
 #headerbar{
