@@ -12,10 +12,9 @@ image {
 }
 
 #imagetext{
-  position: relative;
-  top:-450px;
-  left:300px;
-  z-index:2;
+  position: absolute;
+  top: 5vw;
+  left: 20vw;
   font-size: 5vw;
   color: black;
   background-color: #ffeded;
