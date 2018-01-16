@@ -29,7 +29,7 @@ image {
 }
 
 #aboutus{
-  background-color:#ffeded;
+  background-color:#eff5ff;
   padding: 10pt;
   margin-top: 20pt;
 }
@@ -40,7 +40,7 @@ image {
   left: 20vw;
   font-size: 5vw;
   color: black;
-  background-color: #eff5ff;
+  background-color: #ffeded;
   width: 25vw;
   text-align: center;
   float: left;
@@ -61,7 +61,7 @@ image {
   margin-top: 0px;
   margin-bottom: 0px;
   width: 100%;
-  background-color:#ffeded;
+  background-color: #eff5ff;
   padding: 0px;
   position:relative;
   top:0px;
