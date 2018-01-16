@@ -11,13 +11,29 @@ image {
   right: 0%;
 }
 
+#resources{
+  text-align:center;
+  margin-top:20px;
+  background-color: #eff5ff;
+}
+
+#resourcetitle{
+  font-size:36pt;
+}
+
+#aboutus{
+  background-color:#ffeded;
+  padding: 10pt;
+  margin-top: 20pt;
+}
+
 #imagetext{
   position: absolute;
   top: 5vw;
   left: 20vw;
   font-size: 5vw;
   color: black;
-  background-color: #ffeded;
+  background-color: #eff5ff;
   width: 25vw;
   text-align: center;
   float: left;
@@ -87,10 +103,9 @@ h4 {
 }
 
 p {
-  width: 50%;
   position: relative;
   font-size: 16pt;
-  left: 25%
+  padding: 10pt;
 }
 
 .list {
