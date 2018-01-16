@@ -11,10 +11,17 @@ image {
   right: 0%;
 }
 
+.column{
+  text-align:left;
+  padding-left: 6vw;
+  padding-right: 3vw;
+}
+
 #resources{
   text-align:center;
   margin-top:20px;
   background-color: #eff5ff;
+  padding-top: 10px;
 }
 
 #resourcetitle{
