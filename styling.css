@@ -15,12 +15,22 @@ image {
   text-align:left;
   padding-left: 6vw;
   padding-right: 3vw;
+  width:30%;
+}
+
+.column p{
+  align:center;
+}
+
+.column img{
+  display:block;
+  margin:auto;
 }
 
 #resources{
   text-align:center;
   margin-top:20px;
-  background-color: #eff5ff;
+  background-color: white;
   padding-top: 10px;
 }
 
@@ -113,6 +123,11 @@ p {
   position: relative;
   font-size: 16pt;
   padding: 10pt;
+}
+
+.footer{
+  background-color: #ffeded;
+  margin-bottom: 0px;
 }
 
 .list {
