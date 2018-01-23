@@ -3,6 +3,10 @@ image {
   padding: 0px;
 }
 
+p{
+  font-family: verdana;
+}
+
 #menu{
   list-style-type: none;
   margin: 0;
@@ -108,6 +112,7 @@ vertical-align: 150%;
 
 h2 {
   text-align: center;
+  font-family:verdana;
 }
 
 h3 {
@@ -148,6 +153,7 @@ p {
 h1 {
   padding: 0px;
   margin:0px;
+  font-family:verdana;
 }
 
 body {
